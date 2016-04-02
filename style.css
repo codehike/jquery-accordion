@@ -1,0 +1,14 @@
+#accordion {
+	background-color: white;
+}
+
+#accordion > h3 {
+	margin: 0;
+	padding: 5px;
+	background-color: lightgrey;
+}
+
+#accordion > div {
+	padding: 5px;
+	height: 100px;
+}
